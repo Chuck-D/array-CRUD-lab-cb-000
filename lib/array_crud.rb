@@ -4,6 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
+  arrayTwo = [4, "i", 34,344]
   
 end
 
